@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">First App</string>
+    <string name="my_first_app">My First App!</string>
+    <string name="click_me">Done</string>
+    <string name="enter_name">Enter Name</string>
+</resources>
